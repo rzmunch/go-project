@@ -3,4 +3,7 @@ go 1.20
 use (
 	./helloworld
 	./sqrt
+	./integers
+	./go_tour_slices
+	./go_tour_maps
 )
