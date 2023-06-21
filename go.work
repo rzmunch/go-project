@@ -4,6 +4,9 @@ use (
 	./helloworld
 	./sqrt
 	./integers
+	./iteration
+	./5_arrays_slices
+	./6_structs_methods_interfaces
 	./go_tour_slices
 	./go_tour_maps
 )
