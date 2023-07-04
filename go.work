@@ -9,4 +9,5 @@ use (
 	./6_structs_methods_interfaces
 	./go_tour_slices
 	./go_tour_maps
+	./gcs_list
 )
